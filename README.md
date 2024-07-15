@@ -37,16 +37,6 @@ Please help keep this project alive! Donations are welcome and will go towards f
 
 *Thank you for your support!*
 
-## Preview
-
-#### Résumé
-
-You can see [PDF](https://raw.githubusercontent.com/ewvanwinkle/Awesome-CV/master/examples/resume.pdf)
-
-| Page. 1 | Page. 2 |
-|:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/ewvanwinkle/Awesome-CV/master/examples/resume-0.png)](https://raw.githubusercontent.com/ewvanwinkle/Awesome-CV/master/examples/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/ewvanwinkle/Awesome-CV/master/examples/resume-1.png)](https://raw.githubusercontent.com/ewvanwinkle/Awesome-CV/master/examples/resume.pdf) |
-
 ## Quick Start
 
 * [**Edit Résumé on OverLeaf.com**](https://www.overleaf.com/latex/templates/awesome-cv/tvmzpvdjfqxp)
